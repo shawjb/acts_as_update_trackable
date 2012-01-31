@@ -1,5 +1,3 @@
-# require "acts_as_taggable_on/core"
-
 module ActsAsUpdateTrackable
 
     def self.included(base)
