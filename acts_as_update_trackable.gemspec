@@ -7,11 +7,11 @@ require "acts_as_update_trackable/version"
 Gem::Specification.new do |s|
   s.name        = "acts_as_update_trackable"
   s.version     = ActsAsUpdateTrackable::VERSION
-  s.authors     = ["TODO: Your name"]
-  s.email       = ["TODO: Your email"]
-  s.homepage    = "TODO"
-  s.summary     = "TODO: Summary of ActsAsUpdateTrackable."
-  s.description = "TODO: Description of ActsAsUpdateTrackable."
+  s.authors     = ["Jason Shaw"]
+  s.email       = ["jasonshaw+github@gmail.com"]
+  # s.homepage    = "TODO"
+  # s.summary     = "TODO: Summary of ActsAsUpdateTrackable."
+  # s.description = "TODO: Description of ActsAsUpdateTrackable."
 
   s.files = Dir["{app,config,db,lib}/**/*"] + ["MIT-LICENSE", "Rakefile", "README.rdoc"]
   s.test_files = Dir["test/**/*"]
