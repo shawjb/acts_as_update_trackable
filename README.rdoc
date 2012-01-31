@@ -1,3 +1,4 @@
 = ActsAsUpdateTrackable
 
-This project rocks and uses MIT-LICENSE.
+Acts as update trackable is rails plug in to track the update times on arbitrary attributes in a model.
+Add acts_as_update_trackable to your model. Any attribute such as "a_attribute" when updated will automatically populate "a_attribute_updated_at"(if it exists) with the current datetime
