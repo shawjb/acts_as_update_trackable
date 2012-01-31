@@ -1,9 +1,11 @@
-= ActsAsUpdateTrackable
+ActsAsUpdateTrackable
+========
 
 Acts as update trackable is rails plug in to track the update times on arbitrary attributes in a model.
 
 In your Gemfile
-```console
+
+``` console
 gem 'acts_as_update_trackable', :git => 'git://github.com/jshaw001/acts_as_update_trackable.git'
 ```
 
