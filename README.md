@@ -1,4 +1,4 @@
-ActsAsUpdateTrackable
+Acts as Update Trackable.
 ========
 
 Acts as update trackable is rails plug in to track the update times on arbitrary attributes in a model.
